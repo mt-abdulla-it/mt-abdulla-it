@@ -99,17 +99,6 @@ Cybersecurity
 Artificial Intelligence
 DevOps & Deployment
 ```
-
----
-
-## 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=mt-abdulla-it&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
-
-</div>
-
 ---
 
 ## 🌐 Connect With Me
