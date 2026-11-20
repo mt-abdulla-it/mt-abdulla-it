@@ -102,16 +102,10 @@ DevOps & Deployment
 ---
 
 
-## 📊 GitHub Analytics & Trophies
+## 📊 GitHub Analytics
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=mt-abdulla-it&theme=onedark&no-frame=false&margin-w=4" alt="trophies" />
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mt-abdulla-it&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=mt-abdulla-it&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api?username=mt-abdulla-it&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
 </div>
 
