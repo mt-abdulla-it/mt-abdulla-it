@@ -105,8 +105,8 @@ DevOps & Deployment
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=mt-abdulla-it&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api?username=mt-abdulla-it&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=mt-abdulla-it&theme=tokyonight&hide_border=true&timezone=Asia%2FColombo" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mt-abdulla-it&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true" alt="GitHub Stats" />
 </div>
 
 <div align="center">
