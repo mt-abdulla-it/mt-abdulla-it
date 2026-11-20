@@ -7,6 +7,9 @@
 **Full Stack Developer | Cybersecurity & AI Enthusiast**
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&color=00D9FF&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;Building+Modern+Web+Applications;Exploring+Cybersecurity+and+AI;Always+Learning+Always+Building" alt="Typing SVG"/>
+<br/>
+<img src="https://komarev.com/ghpvc/?username=mt-abdulla-it&label=Profile%20Views&color=00D9FF&style=flat-square" alt="Profile Views" />
+
 
 </div>
 
@@ -69,12 +72,12 @@ I'm a **Full Stack Developer** from 🇱🇰 Sri Lanka, passionate about buildin
 
 ## 🚀 Featured Projects
 
-| Project                       | Description                              |
-| :---------------------------- | :--------------------------------------- |
-| 🧠 **Perception Mapper AI**   | AI-powered intelligent analysis platform |
-| 🎫 **Smart Queue Management** | Digital queue management solution        |
-| ♻️ **Smart Waste Management** | Smart waste management platform          |
-| 🌱 **AgriRoute**              | Smart agriculture planning platform      |
+| Project | Tech Stack | Description |
+| :--- | :--- | :--- |
+| [🧠 **Perception Mapper AI**](https://github.com/mt-abdulla-it/Perception_Mapper_AI) |     | Multilingual NLP platform for cognitive bias and sentiment analysis |
+| [🤖 **xm-ai-scalping-bot**](https://github.com/mt-abdulla-it/xm-ai-scalping-bot) |     | High-frequency AI algorithmic trading bot with machine learning |
+| [🛡️ **NetworkScanner**](https://github.com/mt-abdulla-it/NetworkScanner) |    | Multi-threaded network reconnaissance and security audit utility |
+| [🎫 **Smart Queue Management**](https://github.com/mt-abdulla-it/smart-queue-management-system) |    | Modern digital queuing and customer flow routing platform |
 
 ---
 
@@ -106,11 +109,12 @@ DevOps & Deployment
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=mt-abdulla-it&theme=tokyonight&hide_border=true&timezone=Asia%2FColombo" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api?username=mt-abdulla-it&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true" alt="GitHub Stats" />
 </div>
-
+<br/>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mt-abdulla-it&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mt-abdulla-it&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true" height="175" alt="GitHub Stats" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mt-abdulla-it&layout=compact&theme=tokyonight&hide_border=true" height="175" alt="Top Languages" />
 </div>
 
 ---
