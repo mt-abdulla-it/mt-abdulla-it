@@ -74,10 +74,10 @@ I'm a **Full Stack Developer** from 🇱🇰 Sri Lanka, passionate about buildin
 
 | Project | Tech Stack | Description |
 | :--- | :--- | :--- |
-| [🧠 **Perception Mapper AI**](https://github.com/mt-abdulla-it/Perception_Mapper_AI) |     | Multilingual NLP platform for cognitive bias and sentiment analysis |
-| [🤖 **xm-ai-scalping-bot**](https://github.com/mt-abdulla-it/xm-ai-scalping-bot) |     | High-frequency AI algorithmic trading bot with machine learning |
-| [🛡️ **NetworkScanner**](https://github.com/mt-abdulla-it/NetworkScanner) |    | Multi-threaded network reconnaissance and security audit utility |
-| [🎫 **Smart Queue Management**](https://github.com/mt-abdulla-it/smart-queue-management-system) |    | Modern digital queuing and customer flow routing platform |
+| [🧠 **Perception Mapper AI**](https://github.com/mt-abdulla-it/Perception_Mapper_AI) | `Next.js` `NestJS` `FastAPI` `Python` | Multilingual NLP platform for cognitive bias and sentiment analysis |
+| [🤖 **xm-ai-scalping-bot**](https://github.com/mt-abdulla-it/xm-ai-scalping-bot) | `MQL5` `Python` `ONNX` `MetaTrader 5` | High-frequency AI algorithmic trading bot with machine learning |
+| [🛡️ **NetworkScanner**](https://github.com/mt-abdulla-it/NetworkScanner) | `Python` `Sockets` `Networking` | Multi-threaded network reconnaissance and security audit utility |
+| [🎫 **Smart Queue Management**](https://github.com/mt-abdulla-it/smart-queue-management-system) | `JavaScript` `Node.js` `Real-Time` | Modern digital queuing and customer flow routing platform |
 
 ---
 
