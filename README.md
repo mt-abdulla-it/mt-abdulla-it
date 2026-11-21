@@ -132,8 +132,6 @@ DevOps & Deployment
   <img src="https://img.shields.io/badge/GitHub-Abdulla%20Thaslim-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
-<a href="https://www.linkedin.com/in/mt-abdulla-it">
-  <img src="https://img.shields.io/badge/LinkedIn-Abdulla%20Thaslim-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <a href="mailto:mt.abdulla.it@gmail.com">
