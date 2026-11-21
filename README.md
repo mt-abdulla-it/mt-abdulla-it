@@ -116,6 +116,11 @@ DevOps & Deployment
   &nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mt-abdulla-it&layout=compact&theme=tokyonight&hide_border=true" height="175" alt="Top Languages" />
 </div>
+<br/>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mt-abdulla-it&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Activity Graph" />
+</div>
+
 
 ---
 
