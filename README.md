@@ -27,7 +27,7 @@ I'm a **Full Stack & AI Systems Developer** from 🇱🇰 Sri Lanka, specializin
 * 💻 **Low-Level Systems:** Architect of a custom [64-bit Bare-Metal Operating System Kernel](https://github.com/mt-abdulla-it/Operating-System)
 * 🧠 **NLP & Sentiment AI:** Developer of [Perception Mapper AI](https://github.com/mt-abdulla-it/Perception_Mapper_AI)
 * 🔐 **Cybersecurity:** Offensive reconnaissance and defensive systems research
-* 🎓 **Academic:** Bachelor of Information Technology (BIT) External Degree Student
+* 🎓 **Academic:** Bachelor of Information Technology (BIT) Undergraduate @ **University of Moratuwa**
 
 > 🚀 *"Engineering scalable software from bare-metal kernels to distributed cloud intelligence."*
 
@@ -102,7 +102,7 @@ I'm a **Full Stack & AI Systems Developer** from 🇱🇰 Sri Lanka, specializin
 
 | Certification / Academic Program | Organization / Institution | Status |
 | :--- | :--- | :---: |
-| 🎓 **Bachelor of Information Technology (BIT) – External** | University of Colombo School of Computing (UCSC) | 📖 In Progress |
+| 🎓 **Bachelor of Information Technology (BIT)** | University of Moratuwa | 📖 In Progress |
 | 🖥️ **NVQ Level 4 – Computer Hardware Technician** | Tertiary & Vocational Education Commission | ✅ Certified |
 | 🛡️ **Cybersecurity & Applied AI Engineering** | Mars Tech International Coursework | 🔄 Advanced |
 | 🐍 **Python for Systems & Machine Learning** | Developer Certification Program | ✅ Certified |
