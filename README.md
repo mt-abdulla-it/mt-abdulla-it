@@ -23,7 +23,7 @@
 I'm a **Full Stack & AI Systems Developer** from 🇱🇰 Sri Lanka, specializing in **high-performance backend architectures, low-level systems engineering, and machine learning models**.
 
 * 💼 Full Stack Developer @ **Mars Tech International (Pvt) Ltd**
-* 🤖 **AI & Algorithmic Trading:** Creator of [xm-ai-scalping-bot](https://github.com/mt-abdulla-it/xm-ai-scalping-bot) (MQL5 + ONNX Neural Engine)
+* 🤖 **AI & Algorithmic Trading:** Creator of [xm-ai-scalping-bot](https://github.com/mt-abdulla-it/xm-ai-scalping-bot) (MQL5 + ONNX Neural Engine) • [![Agensi](https://img.shields.io/badge/Agensi-$14.99-6366F1?logo=sparkles&logoColor=white)](https://agensi.io/skills/xm-ai-scalping-bot)
 * 💻 **Low-Level Systems:** Architect of a custom [64-bit Bare-Metal Operating System Kernel](https://github.com/mt-abdulla-it/Operating-System)
 * 🧠 **NLP & Sentiment AI:** Developer of [Perception Mapper AI](https://github.com/mt-abdulla-it/Perception_Mapper_AI)
 * 🔐 **Cybersecurity:** Offensive reconnaissance and defensive systems research
@@ -71,7 +71,7 @@ I'm a **Full Stack & AI Systems Developer** from 🇱🇰 Sri Lanka, specializin
 
 | Project | Domain | Architecture & Highlights | Status |
 | :--- | :---: | :--- | :---: |
-| [🤖 **XM AI Scalping Bot**](https://github.com/mt-abdulla-it/xm-ai-scalping-bot) | **Quant & AI** | MQL5, ONNX Inference, Kaufman ER, Prop Firm 3% Drawdown Shield | `v16.30 Production` |
+| [🤖 **XM AI Scalping Bot**](https://github.com/mt-abdulla-it/xm-ai-scalping-bot) | **Quant & AI** | MQL5, ONNX Inference, Kaufman ER, Prop Firm 3% Drawdown Shield | [![Agensi](https://img.shields.io/badge/Agensi-$14.99-6366F1?logo=sparkles&logoColor=white)](https://agensi.io/skills/xm-ai-scalping-bot) `v16.30` |
 | [🧠 **Perception Mapper AI**](https://github.com/mt-abdulla-it/Perception_Mapper_AI) | **NLP Intelligence** | Next.js, NestJS, FastAPI, Cognitive Bias & Sentiment Pipeline | `v1.0.0 Production` |
 | [💻 **64-Bit Operating System**](https://github.com/mt-abdulla-it/Operating-System) | **Kernel Systems** | Bare-Metal x86_64, Multiboot2, 4-Level Paging, Assembly & C | `v1.0.0 Released` |
 | [♻️ **EcoSync Smart Waste**](https://github.com/mt-abdulla-it/smart-waste-management-system) | **IoT & Smart City** | Real-time municipal waste route scheduling & telemetry analytics | `v1.0.0 Released` |
