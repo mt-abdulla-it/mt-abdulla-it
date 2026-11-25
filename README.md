@@ -57,7 +57,7 @@ I'm a **Full Stack & AI Systems Developer** from 🇱🇰 Sri Lanka, specializin
 
 ### 🧠 Artificial Intelligence & Machine Learning
 <p>
-  <img src="https://skillicons.dev/icons?i=pytorch,huggingface,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,anaconda" />
 </p>
 
 ### 🛠️ DevOps, Cloud & Developer Tooling
